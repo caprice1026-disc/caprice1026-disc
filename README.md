@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 - Node.js
 - Flask
+- Keras
 - Django (学習中)
 - React.js(学習中)
 
