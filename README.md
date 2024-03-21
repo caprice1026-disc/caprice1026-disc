@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 ### 言語
 
-- Python
-- JavaScript
+- Python(4年)
+- JavaScript(3年)
 - PHP (必要に応じて)
 - Solidity (必要に応じて)
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### データベース
 
 - MySQL
--PostgreSQL
+- PostgreSQL
 
 ### インフラストラクチャ
 
