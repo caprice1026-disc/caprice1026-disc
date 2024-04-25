@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caprice1026-disc)
 
 
-# 🚀 職業:フリーランスエンジニア
+# 🚀 職業:エンジニア(？)
 
 ## 👋 自己紹介
 
