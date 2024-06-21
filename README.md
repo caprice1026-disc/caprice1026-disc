@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caprice1026-disc)
 
 
-# 🚀 職業:エンジニア(？)
 
-## 👋 自己紹介
+# 👋 自己紹介
 
 フリーランスのエンジニアです。AI・機械学習分野(特に自然言語処理)に関心を持っており、最近ではAIを活用したプロダクト開発に従事してきました。
 現在は業務委託、正社員問わず仕事を募集中です。
