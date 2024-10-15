@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 ### 言語
 
-- Python(4年)
-- JavaScript(3年)
+- Python
+- JavaScript
 - PHP (必要に応じて)
 - Solidity (必要に応じて)
 
