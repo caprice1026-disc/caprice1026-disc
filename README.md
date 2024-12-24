@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 - Keras
 - Django (学習中)
 - React.js(学習中)
+- Pandas
+- Numpy
 
 ### データベース
 
@@ -58,6 +60,7 @@ Here are some ideas to get you started:
 - Docker
 - AWS
 - GCP
+- Kubenetis(めちゃくちゃﾁｮｯﾄﾜｶﾙ)
 
 ## 📚 今後の展望
 
