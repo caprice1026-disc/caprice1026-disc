@@ -46,7 +46,6 @@ AI・機械学習分野(特に自然言語処理)、ブロックチェーンに�
 - Node.js
 - Flask
 - Keras
-- React.js(学習中→いったん放置)
 - Pandas
 - Numpy
 
